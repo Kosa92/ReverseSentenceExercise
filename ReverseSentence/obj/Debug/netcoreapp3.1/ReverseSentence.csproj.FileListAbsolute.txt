@@ -1,0 +1,13 @@
+C:\Users\Kosa\source\repos\ReverseSentence\ReverseSentence\bin\Debug\netcoreapp3.1\ReverseSentence.exe
+C:\Users\Kosa\source\repos\ReverseSentence\ReverseSentence\bin\Debug\netcoreapp3.1\ReverseSentence.deps.json
+C:\Users\Kosa\source\repos\ReverseSentence\ReverseSentence\bin\Debug\netcoreapp3.1\ReverseSentence.runtimeconfig.json
+C:\Users\Kosa\source\repos\ReverseSentence\ReverseSentence\bin\Debug\netcoreapp3.1\ReverseSentence.runtimeconfig.dev.json
+C:\Users\Kosa\source\repos\ReverseSentence\ReverseSentence\bin\Debug\netcoreapp3.1\ReverseSentence.dll
+C:\Users\Kosa\source\repos\ReverseSentence\ReverseSentence\bin\Debug\netcoreapp3.1\ReverseSentence.pdb
+C:\Users\Kosa\source\repos\ReverseSentence\ReverseSentence\obj\Debug\netcoreapp3.1\ReverseSentence.csprojAssemblyReference.cache
+C:\Users\Kosa\source\repos\ReverseSentence\ReverseSentence\obj\Debug\netcoreapp3.1\ReverseSentence.AssemblyInfoInputs.cache
+C:\Users\Kosa\source\repos\ReverseSentence\ReverseSentence\obj\Debug\netcoreapp3.1\ReverseSentence.AssemblyInfo.cs
+C:\Users\Kosa\source\repos\ReverseSentence\ReverseSentence\obj\Debug\netcoreapp3.1\ReverseSentence.csproj.CoreCompileInputs.cache
+C:\Users\Kosa\source\repos\ReverseSentence\ReverseSentence\obj\Debug\netcoreapp3.1\ReverseSentence.dll
+C:\Users\Kosa\source\repos\ReverseSentence\ReverseSentence\obj\Debug\netcoreapp3.1\ReverseSentence.pdb
+C:\Users\Kosa\source\repos\ReverseSentence\ReverseSentence\obj\Debug\netcoreapp3.1\ReverseSentence.genruntimeconfig.cache
